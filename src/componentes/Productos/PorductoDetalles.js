@@ -66,7 +66,7 @@ export const ProductoDetalles = () => {
                     
                      <input type="range" min="1" max="36" value={url} onChange={handleInput}/>
                      <div className="description">
-                         <p><b>description:</b>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur modi aliquam corrupti ratione soluta ea distinctio voluptatem blanditiis minus aperiam exercitationem, ab tenetur, iure vel reprehenderit fugit minima quas cupiditate. <br/> <br/>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus recusandae dolor laborum, ullam nihil similique aperiam, laboriosam a, ad rem corporis architecto molestiae? Obcaecati, quo accusantium commodi aliquam voluptate dignissimos?</p>
+                         <p><b>Descripción: </b> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur modi aliquam corrupti ratione soluta ea distinctio voluptatem blanditiis minus aperiam exercitationem, ab tenetur, iure vel reprehenderit fugit minima quas cupiditate. <br/> <br/>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus recusandae dolor laborum, ullam nihil similique aperiam, laboriosam a, ad rem corporis architecto molestiae? Obcaecati, quo accusantium commodi aliquam voluptate dignissimos?</p>
                      </div>
                      <br/>  <br/>  <br/>  <br/>  <br/> 
                 </div>
